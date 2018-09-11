@@ -4,7 +4,7 @@ import org.apache.ibatis.annotations.Param;
 
 import com.soecode.lyf.entity.Appointment;
 
-public interface AppointmentDao {
+public interface AppointmentDao { 
 
 	/**
 	 * 插入预约图书记录
